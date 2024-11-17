@@ -31,7 +31,9 @@ Note 2: This application only works on a Windows 10 or 11 operating system.
 3.	Wait for the setup to complete
 4.	When the window closes, the setup is done.
 5.	The Marketplace application is ready!
+
 If this dosen't seem to work or you get an error message try:
+
 1.	You need to get a fresh copy of Marketplace (you can remove the one that finished with error).
 2.	Right click the start button on your taskbar
 3.	Click "Windows PowerShell (Admin)"
