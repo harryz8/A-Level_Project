@@ -24,7 +24,7 @@ Note 2: This application only works on a Windows 10 or 11 operating system.
 8.	Close the Installer
 ## Setup Marketplace
 1.	Make sure that you are using a windows login with administrator permissions.
-2.	Double click on the file "Marketplace Setup for i.16" (there might be a different number or letter at the end e.g. "Marketplace Setup for m.1". This is fine)
+2.	Double click on the file "Marketplace Setup for T.1"
 
 ![](readme_images/Picture6.png)
 
